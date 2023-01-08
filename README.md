@@ -1,10 +1,14 @@
-## Spring Boot Deployment
+## Spring Boot Data
 
-This module contains articles about deployment of a Spring Boot Application
+This module contains articles about Spring Boot with Spring Data
 
-### Relevant Articles:			
- - [Deploy a Spring Boot WAR into a Tomcat Server](https://www.baeldung.com/spring-boot-war-tomcat-deploy)
- - [Spring Boot Console Application](https://www.baeldung.com/spring-boot-console-app)
- - [Comparing Embedded Servlet Containers in Spring Boot](https://www.baeldung.com/spring-boot-servlet-containers)
- - [Graceful Shutdown of a Spring Boot Application](https://www.baeldung.com/spring-boot-graceful-shutdown)
- - [Spring Shutdown Callbacks](https://www.baeldung.com/spring-shutdown-callbacks)
+## Relevant Articles:
+
+- [Formatting JSON Dates in Spring Boot](https://www.baeldung.com/spring-boot-formatting-json-dates)
+- [Rendering Exceptions in JSON with Spring](https://www.baeldung.com/spring-exceptions-json)
+- [Disable Spring Data Auto Configuration](https://www.baeldung.com/spring-data-disable-auto-config)
+- [Repositories with Multiple Spring Data Modules](https://www.baeldung.com/spring-multiple-data-modules)
+- [Spring Custom Property Editor](https://www.baeldung.com/spring-mvc-custom-property-editor)
+- [Using @JsonComponent in Spring Boot](https://www.baeldung.com/spring-boot-jsoncomponent)
+- [Guide To Running Logic on Startup in Spring](https://www.baeldung.com/running-setup-logic-on-startup-in-spring)
+
